@@ -2,3 +2,7 @@ baseURL = 'https://pridecord.xyz/'
 languageCode = 'en-us'
 title = 'Pridecord'
 theme = 'ananke'
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
